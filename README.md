@@ -1,4 +1,4 @@
-A new CMS written entirely in Typescript.
+Im attempting to create a new CMS written entirely in Typescript.
 
 Stack
 
